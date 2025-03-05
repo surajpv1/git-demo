@@ -1,1 +1,1 @@
-# Git demo
+# Sample Webpage Deployment using GIT
